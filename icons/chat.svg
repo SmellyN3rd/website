@@ -1,10 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="64" height="48">
-
-<g transform="matrix(0.0625 0 0 0.0625 0 0)">
-	<g transform="matrix(1.799999 0 0 1.799999 128 0)">
-	</g>
-    <path transform="matrix(1.799999 0 0 1.799999 128 0)"  d="M426.453 42.667C 426.453 19.093 407.573 0 384 0L384 0L42.667 0C 19.093 0 0 19.093 0 42.667L0 42.667L0 298.667C 0 322.24 19.093 341.334 42.667 341.334L42.667 341.334L341.334 341.334L426.667 426.667L426.453 42.667z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="48"  xmlns:v="https://vecta.io/nano"><path d="M55.976 4.8c0-2.652-2.124-4.8-4.776-4.8h0-38.4A4.8 4.8 0 0 0 8 4.8h0v28.8a4.8 4.8 0 0 0 4.8 4.8h33.6L56 48l-.024-43.2z" fill="#fff"/></svg>
