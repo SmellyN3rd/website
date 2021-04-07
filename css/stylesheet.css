@@ -13,6 +13,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .bar .button{white-space:normal}
 .bar-block .bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
 .bar-block.center .bar-item{text-align:center}.block{display:block;width:100%}
+.opacity,.hover-opacity:hover{opacity:0.60}.opacity-off,.hover-opacity-off:hover{opacity:1}
 
 .main,#main{transition:margin-left .4s}
 .content,.auto{margin-left:auto;margin-right:auto}.content{max-width:980px}.auto{max-width:1140px}
