@@ -42,6 +42,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .button:hover{color:#000;background-color:#ccc}
 .transparent,.hover-none:hover{background-color:transparent}
 .hover-none:hover{box-shadow:none}
+.hide{display:none}.show-block,.show{display:block}.show-inline-block{display:inline-block}
 
 .white,.hover-white:hover{color:#000;background-color:#fff}
 .black,.hover-black:hover{color:#fff;background-color:#000}
