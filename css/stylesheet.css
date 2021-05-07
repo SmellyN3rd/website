@@ -36,6 +36,20 @@ img
 	text-align: center;
 }
 
+h1
+{
+	font-size: 70px;
+}
+
+h2
+{
+	font-size: 30px;
+}
+
+h3
+{
+	font-size: 24px;
+}
 
 
 
@@ -121,7 +135,7 @@ img
 	white-space: normal;
 }
 
-.border
+.border-grey
 {
     border: 2px solid grey;
     border-radius: 5px
